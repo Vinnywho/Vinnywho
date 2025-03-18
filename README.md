@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Oie, eu sou o Vinicius Lima, estudante de Análise e Desenvolvimento de Sistemas!👋
+# Oi, eu sou o Vinicius Lima, estudante de Análise e Desenvolvimento de Sistemas!👋
 
 <p>Atualmente estou cursando ADS pela <a href="https://www.fecap.br">FECAP</a>, no segundo semestre.</p>
 
